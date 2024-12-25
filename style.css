@@ -2,3 +2,74 @@ h1{
     background-color: rgb(250, 235, 215);
     color: rgb(0, 0, 0);
 }
+#head{
+    background-color: rgb(0, 0, 255);
+    
+    color: rgb(255, 255, 255);
+    
+}
+#head{
+    opacity: 1;
+}
+
+#head-one{
+    background-color: rgba(18, 18, 240, 0.932);
+    color: rgba(255, 255, 255, 0.959);
+}
+#head-two{
+    background-color: rgba(18, 18, 240, 0.815);
+    color: rgba(255, 255, 255, 0.959);
+}
+#head-three{
+    background-color: rgba(18, 18, 240, 0.76);
+    color: rgba(255, 255, 255, 0.959);
+}
+#head-four{
+    background-color: rgba(18, 18, 240, 0.63);
+    color: rgba(255, 255, 255, 0.959);
+}
+#head-five{
+    background-color: rgba(18, 18, 240, 0.534);
+    color: rgba(255, 255, 255, 0.959);
+}
+#head-six{
+    background-color: rgba(18, 18, 240, 0.432);
+    color: rgba(255, 255, 255, 0.959);
+}
+#head-seven{
+    background-color: rgb(7, 122, 7);
+    color: white;
+}
+#head-eight{
+    background-color: rgb(255, 192, 203);
+    color: white;
+}
+#head-nine{
+    background-color: rgb(252, 177, 189);
+    color: white;
+}
+#head-ten{
+    background-color: rgb(252, 156, 172);
+    color: white;
+}
+#head-eleven{
+    background-color: rgb(253, 141, 160);
+    color: white;
+}
+#head-tewelve{
+    background-color: rgb(253, 94, 120);
+    color: white;
+}
+#head-thirteen{
+    background-color: rgb(253, 69, 100);
+    color: white;
+}
+#head-fourteen{
+    background-color: rgb(253, 43, 78);
+    color: white;
+}
+
+
+
+
+
